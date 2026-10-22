@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="680" viewBox="0 0 1360 680" role="img" aria-labelledby="title desc">
+  <title id="title">Brand AI Readiness Audit — Adobe University Hackathon 2026, Top 45 Teams</title>
+  <desc id="desc">A dark violet and cyan wireframe sphere illustrates a website being scanned. Brand AI Readiness Audit makes brands readable to the AI web, with 77 checks, 4 analyzers, and zero third-party dependencies.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b0e20"/><stop offset=".48" stop-color="#090c19"/><stop offset="1" stop-color="#040811"/>
+    </linearGradient>
+    <radialGradient id="violetGlow">
+      <stop stop-color="#713eff" stop-opacity=".27"/><stop offset="1" stop-color="#713eff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow">
+      <stop stop-color="#40e9ee" stop-opacity=".12"/><stop offset="1" stop-color="#40e9ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glass" cx=".32" cy=".22" r=".8">
+      <stop stop-color="#7862d6" stop-opacity=".16"/><stop offset=".6" stop-color="#10203d" stop-opacity=".25"/><stop offset="1" stop-color="#040b1c" stop-opacity=".9"/>
+    </radialGradient>
+    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#c9aeff"/><stop offset=".4" stop-color="#8e6bff"/><stop offset="1" stop-color="#49e8eb"/>
+    </linearGradient>
+    <linearGradient id="fadeLine" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#8a6eff" stop-opacity="0"/><stop offset=".4" stop-color="#8a6eff" stop-opacity=".4"/><stop offset="1" stop-color="#50e1e8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="award" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#33204d" stop-opacity=".8"/><stop offset="1" stop-color="#131426" stop-opacity=".6"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#43dce7" stop-opacity="0"/><stop offset="1" stop-color="#43dce7" stop-opacity=".12"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+    <filter id="bloom"><feGaussianBlur stdDeviation="7"/></filter>
+    <clipPath id="sphere"><circle cx="1042" cy="302" r="176"/></clipPath>
+    <clipPath id="frame"><rect x="1" y="1" width="1358" height="678" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1360" height="680" fill="url(#background)"/>
+    <ellipse cx="1045" cy="245" rx="440" ry="385" fill="url(#violetGlow)"/>
+    <ellipse cx="1175" cy="467" rx="355" ry="275" fill="url(#cyanGlow)"/>
+
+    <!-- A quiet perspective plane beneath the wireframe object. -->
+    <g fill="none" stroke="#6885b0" stroke-opacity=".1" stroke-width="1">
+      <path d="M681 484H1360M658 505H1360M625 536H1360M581 577H1360M516 633H1360"/>
+      <path d="M1042 446L549 680M1042 446L712 680M1042 446L869 680M1042 446L1026 680M1042 446L1183 680M1042 446L1340 680"/>
+    </g>
+    <path d="M744 498H1294" stroke="url(#fadeLine)"/>
+
+    <!-- The visual is an illustration, not an application screenshot. -->
+    <g fill="none">
+      <path d="M833 188L1042 69L1251 188V422L1042 541L833 422Z" stroke="#9e89de" stroke-opacity=".15"/>
+      <path d="M833 188L1042 307L1251 188M1042 307V541" stroke="#9e89de" stroke-opacity=".12"/>
+      <ellipse cx="1042" cy="302" rx="234" ry="93" transform="rotate(-27 1042 302)" stroke="#9a7bff" stroke-opacity=".3"/>
+      <ellipse cx="1042" cy="302" rx="231" ry="94" transform="rotate(42 1042 302)" stroke="#54dce8" stroke-opacity=".16"/>
+      <circle cx="1042" cy="302" r="198" stroke="#a282ff" stroke-opacity=".08" stroke-dasharray="2 10"/>
+      <path d="M899 165A198 198 0 0 1 1212 202" stroke="#b49bff" stroke-width="2" stroke-linecap="round"/>
+      <path d="M1222 385A198 198 0 0 1 1067 499" stroke="#66e7ea" stroke-width="2" stroke-linecap="round"/>
+    </g>
+
+    <circle cx="1042" cy="302" r="176" fill="url(#glass)" stroke="url(#wire)" stroke-opacity=".7"/>
+    <g clip-path="url(#sphere)" fill="none" stroke="url(#wire)" stroke-width="1">
+      <g stroke-opacity=".31">
+        <ellipse cx="1042" cy="302" rx="148" ry="176"/>
+        <ellipse cx="1042" cy="302" rx="96" ry="176"/>
+        <ellipse cx="1042" cy="302" rx="34" ry="176"/>
+        <ellipse cx="1042" cy="302" rx="176" ry="55"/>
+        <ellipse cx="1042" cy="249" rx="176" ry="51"/>
+        <ellipse cx="1042" cy="355" rx="176" ry="51"/>
+        <ellipse cx="1042" cy="199" rx="156" ry="39"/>
+        <ellipse cx="1042" cy="405" rx="156" ry="39"/>
+        <ellipse cx="1042" cy="155" rx="104" ry="20"/>
+        <ellipse cx="1042" cy="449" rx="104" ry="20"/>
+      </g>
+      <path d="M854 211H1230V326H854Z" fill="url(#scan)" stroke="none"/>
+      <path d="M854 326H1230" stroke="#73f6ef" stroke-width="2"/>
+      <path d="M854 326H1230" stroke="#73f6ef" stroke-width="7" opacity=".5" filter="url(#soft)"/>
+    </g>
+    <ellipse cx="1042" cy="499" rx="141" ry="12" fill="#8163f1" opacity=".13" filter="url(#bloom)"/>
+
+    <g fill="#80f3ed">
+      <circle cx="887" cy="326" r="4"/><circle cx="1197" cy="326" r="4"/>
+      <circle cx="1217" cy="205" r="4"/><circle cx="1067" cy="499" r="3"/>
+    </g>
+    <g fill="#c4aeff"><circle cx="899" cy="165" r="4"/><circle cx="852" cy="411" r="3"/></g>
+    <g stroke="#8f84bf" stroke-opacity=".45" fill="none">
+      <path d="M1205 326H1270V298"/><path d="M887 326H807V356"/>
+      <path d="M1042 100V84"/><path d="M1270 302V294M1266 298H1274"/>
+    </g>
+    <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10" letter-spacing="1.6" fill="#9b9eb7">
+      <text x="975" y="52">EVIDENCE &gt; GUESSWORK</text>
+      <text x="1196" y="285">SIGNALS FOUND</text>
+      <text x="781" y="377">SCAN / 077</text>
+    </g>
+
+    <!-- The award appears before the product name in reading order. -->
+    <g font-family="Inter,'SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+      <path d="M64 55H84" stroke="#b39aff" stroke-width="2"/>
+      <text x="98" y="61" font-size="17" font-weight="650" letter-spacing="2.4" fill="#c4bcde">ADOBE UNIVERSITY HACKATHON 2026</text>
+
+      <rect x="64" y="94" width="322" height="56" rx="9" fill="url(#award)" stroke="#8461c5" stroke-opacity=".5"/>
+      <path d="M86 111L89 117L96 118L91 123L92 130L86 127L80 130L81 123L76 118L83 117Z" fill="#ccadff"/>
+      <text x="110" y="130" font-size="25" font-weight="750" letter-spacing="1.7" fill="#e9dcff">TOP 45 TEAMS</text>
+      <text x="409" y="127" font-size="12" font-weight="600" letter-spacing="1.8" fill="#a69bbc">TEAM CODING NINJAS</text>
+
+      <text x="59" y="262" font-size="103" font-weight="800" letter-spacing="-5" fill="#f7f6ff">BRAND AI</text>
+      <text x="64" y="343" font-size="68" font-weight="700" letter-spacing="-2.7" fill="#d6c6ff">READINESS AUDIT</text>
+      <text x="66" y="397" font-size="24" font-weight="400" letter-spacing="-.3" fill="#afb5ce">Make your brand readable to the AI web.</text>
+
+      <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4">
+        <text x="66" y="455" fill="#c2b3e7">01 CRAWL</text>
+        <path d="M168 451H196M191 447L196 451L191 455" fill="none" stroke="#62667e"/>
+        <text x="215" y="455" fill="#c2b3e7">02 ANALYZE</text>
+        <path d="M336 451H364M359 447L364 451L359 455" fill="none" stroke="#62667e"/>
+        <text x="383" y="455" fill="#86dbdf">03 PRIORITIZE</text>
+      </g>
+
+      <path d="M64 526H1296" stroke="#a5b0e0" stroke-opacity=".14"/>
+      <g fill="#f2f0ff" font-size="47" font-weight="650" letter-spacing="-1.9">
+        <text x="65" y="591">77</text>
+        <text x="293" y="591">4</text>
+        <text x="520" y="591">0</text>
+      </g>
+      <g fill="#8f98b5" font-size="12" font-weight="550" letter-spacing="2">
+        <text x="67" y="619">CHECKS</text>
+        <text x="295" y="619">ANALYZERS</text>
+        <text x="522" y="619">DEPENDENCIES</text>
+      </g>
+      <path d="M252 556V618M479 556V618" stroke="#9daddd" stroke-opacity=".13"/>
+      <rect x="951" y="561" width="344" height="47" rx="23.5" fill="#101b29" stroke="#69b9c2" stroke-opacity=".2"/>
+      <circle cx="977" cy="585" r="4" fill="#66e7d1"/>
+      <text x="993" y="589" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="1.3" fill="#9dbfcb">ONE CRAWL. ONE CLEAR REPORT.</text>
+    </g>
+    <rect x="1" y="1" width="1358" height="678" rx="22" fill="none" stroke="#b6bbeb" stroke-opacity=".13"/>
+  </g>
+</svg>
